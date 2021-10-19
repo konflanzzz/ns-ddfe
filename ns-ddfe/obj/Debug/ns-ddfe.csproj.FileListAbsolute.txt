@@ -1,0 +1,10 @@
+C:\Projetos\ns-ddfe\ns-ddfe\obj\Debug\ns-ddfe.csprojAssemblyReference.cache
+C:\Projetos\ns-ddfe\ns-ddfe\obj\Debug\ns-ddfe.csproj.CoreCompileInputs.cache
+C:\Projetos\ns-ddfe\ns-ddfe\bin\Debug\ns-ddfe.exe.config
+C:\Projetos\ns-ddfe\ns-ddfe\bin\Debug\ns-ddfe.exe
+C:\Projetos\ns-ddfe\ns-ddfe\bin\Debug\ns-ddfe.pdb
+C:\Projetos\ns-ddfe\ns-ddfe\bin\Debug\Newtonsoft.Json.dll
+C:\Projetos\ns-ddfe\ns-ddfe\bin\Debug\Newtonsoft.Json.xml
+C:\Projetos\ns-ddfe\ns-ddfe\obj\Debug\ns-ddfe.csproj.CopyComplete
+C:\Projetos\ns-ddfe\ns-ddfe\obj\Debug\ns-ddfe.exe
+C:\Projetos\ns-ddfe\ns-ddfe\obj\Debug\ns-ddfe.pdb
